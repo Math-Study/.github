@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Join us on Discord](https://discord.gg/math-study-934807331668099142)
+[Join us on Discord](https://discord.gg/math-study-934807331668099142)
 
 <!--
 
